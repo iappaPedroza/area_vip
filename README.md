@@ -16,7 +16,7 @@ portfolio e homologação de apps e sistemas
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
 - [X] ajustar READMEs e Repositorios
-- [ ] Tarefa 2
+- [ ] Conectar com pasta destino no site
 - [ ] Tarefa 3
 - [ ] Tarefa 4
 - [ ] Tarefa 5
