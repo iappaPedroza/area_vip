@@ -17,7 +17,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [X] ajustar READMEs e Repositorios
 - [ ] Conectar com pasta destino no site
-- [ ] Tarefa 3
+- [ ] Iniciar projeto no Ambiente Dev
 - [ ] Tarefa 4
 - [ ] Tarefa 5
 
