@@ -7,7 +7,7 @@ portfolio e homologação de apps e sistemas
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iappaPedroza/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iappaPedroza/README-template?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="O_Especialista.jpg" alt="Resolvemos problemas com o especialista" width="500">
 
 > Área Demonstrativa de Projetos Realizados, em Andamento, Estudos e Testes
 
