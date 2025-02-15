@@ -16,8 +16,8 @@ portfolio e homologação de apps e sistemas
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
 - [X] ajustar READMEs e Repositorios
-- [ ] Conectar com pasta destino no site
-- [ ] Iniciar projeto no Ambiente Dev
+- [X] Conectar com pasta destino no site
+- [ ] Configurar Site para exibir a rota corretamente
 - [ ] Tarefa 4
 - [ ] Tarefa 5
 
