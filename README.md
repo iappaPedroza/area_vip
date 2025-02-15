@@ -17,9 +17,9 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [X] ajustar READMEs e Repositorios
 - [X] Conectar com pasta destino no site
-- [ ] Configurar Site para exibir a rota corretamente
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [X] Configurar Site para exibir a rota corretamente
+- [ ] Iniciar o projeto
+- [ ] Publicar o projeto
 
 ## 💻 Pré-requisitos
 
